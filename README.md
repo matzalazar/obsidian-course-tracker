@@ -2,6 +2,8 @@
 
 Este plugin para [Obsidian](https://obsidian.md/) genera automáticamente una estructura de carpetas y archivos markdown para un curso de [Coursera](https://www.coursera.org/) a partir de su URL. Ideal para documentar y llevar el control de tu formación dentro de tu vault.
 
+![](./example.gif)
+
 ## Características principales
 
 - **Scraping** de módulos, lecciones y duraciones desde Coursera.  
@@ -60,7 +62,7 @@ Dentro de Obsidian, ve a **Settings → Plugins → Course Tracker Settings** y 
 
 ## Estructura de salida
 
-Al invocar Enter Course URL”, el plugin:
+Al ejecutar “Enter Course URL” desde la paleta de comandos:
 
 1. Crea carpeta:
 

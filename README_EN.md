@@ -2,6 +2,8 @@
 
 This plugin for [Obsidian](https://obsidian.md/) automatically generates a folder and markdown file structure for a [Coursera](https://www.coursera.org/) course from its URL. Ideal for documenting and tracking your learning progress inside your vault.
 
+![](./example.gif)
+
 ## Main Features
 
 - **Scrapes** modules, lessons, and durations from Coursera.  
