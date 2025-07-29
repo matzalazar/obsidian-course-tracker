@@ -1,0 +1,20 @@
+# Node
+node_modules/
+dist/
+package-lock.json
+.env
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace (Copia en conflicto de*).json
+
+# Python
+*.pyc
+__pycache__/
+
+# Otros
+*.log

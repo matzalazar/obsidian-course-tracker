@@ -1,0 +1,22 @@
+{
+  "name": "obsidian-course-tracker",
+  "version": "0.1.0",
+  "description": "Import online courses and track them inside Obsidian.",
+  "main": "main.js",
+  "scripts": {
+    "build": "rm -rf dist && esbuild src/main.ts --bundle --platform=node --target=es2020 --external:obsidian --outdir=dist"
+  },
+  "devDependencies": {
+    "esbuild": "^0.19.0",
+    "typescript": "^4.9.5"
+  },
+  "peerDependencies": {
+    "obsidian": "*"
+  },
+  "engines": {
+  "node": ">=18.19.1",
+  "npm": ">=9.2.0"
+  },
+  "license": "MIT",
+  "author": "matzalazar"
+}
