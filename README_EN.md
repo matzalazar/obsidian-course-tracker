@@ -101,7 +101,12 @@ Courses/
 
 ## License
 
-MIT
+[MIT](./LICENSE)
+
+## Disclaimer
+
+This plugin is intended for personal use only. Please respect the [Coursera Terms of Service](https://www.coursera.org/about/terms).  
+We do not collect or transmit any data; all processing happens locally on your machine.
 
 ## Contributions
 

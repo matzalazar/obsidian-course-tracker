@@ -101,7 +101,12 @@ Cursos/
 
 ## Licencia
 
-MIT
+[MIT](./LICENSE)
+
+## Descargo de responsabilidad
+
+Este plugin está diseñado únicamente para uso personal. Por favor, respetá los [Términos de Servicio de Coursera](https://www.coursera.org/about/terms).  
+No se recopilan ni transmiten datos: todo el procesamiento ocurre localmente en tu dispositivo.
 
 ## Contribuciones
 
