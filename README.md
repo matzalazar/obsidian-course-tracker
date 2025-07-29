@@ -2,7 +2,7 @@
 
 Este plugin para [Obsidian](https://obsidian.md/) genera automáticamente una estructura de carpetas y archivos markdown para un curso de [Coursera](https://www.coursera.org/) a partir de su URL. Ideal para documentar y llevar el control de tu formación dentro de tu vault.
 
-![](./example.gif)
+![Example](./example.gif)
 
 ## Características principales
 
